@@ -1,0 +1,2436 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D2E856.90374B20"
+
+此文档为“单个文件网页”，也称为“Web 档案”文件。如果您看到此消息，但是您的浏览器或编辑器不支持“Web 档案”文件。请下载支持“Web 档案”的浏览器，如 Windows? Internet Explorer?。
+
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 12">
+<meta name=3DOriginator content=3D"Microsoft Word 12">
+<link rel=3DFile-List href=3D"HololensAPI.files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"HololensAPI.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>xixin</o:Author>
+  <o:LastAuthor>xixin</o:LastAuthor>
+  <o:Revision>27</o:Revision>
+  <o:TotalTime>187</o:TotalTime>
+  <o:Created>2017-06-15T01:59:00Z</o:Created>
+  <o:LastSaved>2017-06-18T09:16:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>692</o:Words>
+  <o:Characters>3950</o:Characters>
+  <o:Lines>32</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4633</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=3DdataStoreItem href=3D"HololensAPI.files/item0009.xml"
+target=3D"HololensAPI.files/props0010.xml">
+<link rel=3DthemeData href=3D"HololensAPI.files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"HololensAPI.files/colorschememapping=
+.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 &#30917;</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEve=
+ry>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"--"/>
+   <m:smallFrac/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"true"
+  DefSemiHidden=3D"true" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" Priority=3D"0" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" QFormat=3D"true" Name=3D=
+"caption"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
+ Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Placeho=
+lder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Revisio=
+n"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" QFormat=3D"true" Name=3D=
+"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:\7B49\7EBF;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:DengXian;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:"Microsoft YaHei";
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 684670032 22 0 262175 0;}
+@font-face
+	{font-family:"\@\7B49\7EBF";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:"Microsoft YaHei";
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 684670032 22 0 262175 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:\7B49\7EBF;
+	mso-ascii-font-family:\7B49\7EBF;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:\7B49\7EBF;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:\7B49\7EBF;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"\9875\7709 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:\7B49\7EBF;
+	mso-ascii-font-family:\7B49\7EBF;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:\7B49\7EBF;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:\7B49\7EBF;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"\9875\811A Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:\7B49\7EBF;
+	mso-ascii-font-family:\7B49\7EBF;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:\7B49\7EBF;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:\7B49\7EBF;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"\6279\6CE8\6846\6587\672C Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:9.0pt;
+	font-family:\7B49\7EBF;
+	mso-ascii-font-family:\7B49\7EBF;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:\7B49\7EBF;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:\7B49\7EBF;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+span.Char
+	{mso-style-name:"\9875\7709 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:\9875\7709;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:\7B49\7EBF;
+	mso-ascii-font-family:\7B49\7EBF;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:\7B49\7EBF;
+	mso-hansi-font-family:\7B49\7EBF;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+span.Char0
+	{mso-style-name:"\9875\811A Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:\9875\811A;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:\7B49\7EBF;
+	mso-ascii-font-family:\7B49\7EBF;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:\7B49\7EBF;
+	mso-hansi-font-family:\7B49\7EBF;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+span.Char1
+	{mso-style-name:"\6279\6CE8\6846\6587\672C Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:\6279\6CE8\6846\6587\672C;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("HololensAPI.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("HololensAPI.files/header.htm") fc=
+s;
+	mso-endnote-separator:url("HololensAPI.files/header.htm") es;
+	mso-endnote-continuation-separator:url("HololensAPI.files/header.htm") ecs=
+;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:\666E\901A\8868\683C;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DZH-CN style=3D'tab-interval:21.0pt;text-justify-trim:punctuati=
+on'>
+
+<div class=3DSection1 style=3D'layout-grid:15.6pt'>
+
+<p class=3DMsoNormal style=3D'text-indent:136.0pt;mso-char-indent-count:8.5=
+'><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:16.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>Hololens<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>API<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:15.0pt;font-family:"&#24494;&=
+#36719;&#38597;&#40657;","sans-serif"'>&#20840;&#24687;&#24212;&#29992;&#38=
+656;&#35201;&#20351;&#29992;&#22522;&#20110;<span
+lang=3DEN-US>Windows<span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span></s=
+pan>&#20840;&#24687;<span
+lang=3DEN-US>API</span>&#65288;<span lang=3DEN-US>Windows Holographic APIS<=
+/span>&#65289;&#35774;&#35745;&#30340;&#24037;&#20855;&#26469;&#24320;&#214=
+57;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:15.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#36755;&#20837;&#26041;&#24335;<span
+lang=3DEN-US>Input<o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:14.0pt;mso-char-indent-count:1.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20957;&#35270;&#21644;&#=
+25163;&#21183;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'> </span>Gaze<span style=3D'mso=
+-tab-count:
+1'>&nbsp; </span>and<span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </sp=
+an>Gestures
+<o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:12.0pt;mso-char-indent-count:1.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>Gaze<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b>=
+<span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#26159;<span
+lang=3DEN-US>HoloLens</span>&#26368;&#22522;&#26412;&#30340;&#36755;&#20837=
+;&#26041;&#24335;&#65292;&#29992;&#20110;&#22312;&#29615;&#22659;&#20013;&#=
+36873;&#20013;&#30446;&#26631;&#20840;&#24687;&#23545;&#35937;&#12290;&#299=
+92;&#25143;&#24212;&#24403;&#21487;&#20197;&#36890;&#36807;&#25351;&#38024;=
+&#30340;&#20301;&#32622;&#30830;&#23450;<span
+lang=3DEN-US>gaze</span>&#24403;&#21069;&#27880;&#35270;&#30340;&#30446;&#2=
+6631;&#23545;&#35937;&#12290;<span
+lang=3DEN-US>Gaze</span>&#25351;&#38024;&#24456;&#31867;&#20284;&#19982;&#4=
+0736;&#26631;&#25351;&#38024;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:12.0pt;mso-char-indent-count:1.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#25163;&#21183;</span></b=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-tab-count:1'>&nbsp; </span></span><span style=3D'font-size:12.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#21017;&#2080=
+1;&#35768;&#20320;&#19982;&#20840;&#24687;&#22270;&#20687;&#20132;&#20114;&=
+#65292;&#23601;&#20687;&#40736;&#26631;&#28857;&#20987;&#26679;&#12290;&#32=
+477;&#22823;&#22810;&#25968;&#26102;&#38388;&#40736;&#26631;&#28857;&#20987=
+;&#21644;<span
+lang=3DEN-US>Touch</span>&#65288;&#35302;&#23631;&#28857;&#20987;&#65289;&#=
+26159;&#19968;&#26679;&#30340;&#65292;&#20294;&#26159;&#26126;&#30333;&#216=
+44;&#30830;&#23450;&#23427;&#20204;&#20043;&#38388;&#21306;&#21035;&#20063;=
+&#26159;&#24456;&#37325;&#35201;&#30340;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"&#24494;&=
+#36719;&#38597;&#40657;","sans-serif"'>&#30830;&#23450;&#20320;&#30340;&#24=
+212;&#29992;&#33021;&#22815;&#21709;&#24212;&#40736;&#26631;&#25110;&#35302=
+;&#25720;&#30340;&#19981;&#21516;&#34892;&#20026;&#65292;&#36825;&#20250;&#=
+35753;&#29992;&#25143;&#20307;&#39564;&#26356;&#33258;&#28982;&#20123;&#122=
+90;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:14.0pt;font-family:"&#24494;&=
+#36719;&#38597;&#40657;","sans-serif"'>&#33258;&#23450;&#20041;&#35821;&#38=
+899;&#21629;&#20196;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp; </span>Custom Voice Com=
+mands<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#35821;&#38899;&#36755;&#20837;&#26159;&#24456;&#33258;&#28982=
+;&#30340;&#20132;&#20114;&#24418;&#24335;&#65292;&#21462;&#20915;&#20110;&#=
+20320;&#36873;&#25321;&#30340;&#35821;&#38899;&#21629;&#20196;&#21644;&#244=
+18;&#24335;&#65292;&#29992;&#25143;&#21487;&#33021;&#20250;&#24863;&#21040;=
+&#24456;&#26834;&#25110;&#32773;&#20250;&#24863;&#21040;&#22256;&#24785;&#1=
+2290;&#19968;&#26465;&#22522;&#26412;&#21407;&#21017;&#26159;&#65292;&#3699=
+1;&#20813;&#20351;&#29992;&#31995;&#32479;&#20869;&#32622;&#30340;&#35821;&=
+#38899;&#21629;&#20196;&#65292;&#20363;&#22914;&#8220;<span
+lang=3DEN-US>Select</span>&#8221;&#25110;&#8220;<span lang=3DEN-US>Hey Cort=
+ana</span>&#8221;&#12290;&#19979;&#38754;&#26159;&#19968;&#20123;&#35201;&#=
+32771;&#34385;&#30340;&#22320;&#26041;&#65306;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>1. <span style=3D'mso-tab-count:1'>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#36991;&#20813;&#20351;&#29992;&#21548;&#36215;&#26469;&#30456=
+;&#20284;&#30340;&#35821;&#38899;&#21629;&#20196;&#12290;&#36825;&#20250;&#=
+28508;&#22312;&#22320;&#23548;&#33268;&#35843;&#29992;&#38169;&#35823;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>2. <span style=3D'mso-tab-count:1'>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#23613;&#37327;&#20351;&#29992;&#34920;&#36798;&#20016;&#23500=
+;&#30340;&#20851;&#38190;&#35789;&#12290;&#36825;&#21487;&#20197;&#25552;&#=
+39640;&#35782;&#21035;&#29575;&#65292;&#36991;&#20813;&#38169;&#35823;&#358=
+43;&#29992;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#22806;&#35774;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Peripheral=
+s<o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"&#24494;&=
+#36719;&#38597;&#40657;","sans-serif"'>&#29992;&#25143;&#21487;&#20197;&#36=
+890;&#36807;&#22806;&#35774;&#19982;&#20320;&#30340;<span
+lang=3DEN-US>APP</span>&#20132;&#20114;&#65292;&#25105;&#20204;&#23545;&#27=
+492;&#19981;&#38656;&#35201;&#21435;&#20570;&#29305;&#23450;&#30340;&#22788=
+;&#29702;&#12290;&#28982;&#32780;&#36824;&#26159;&#26377;&#20123;&#20107;&#=
+24773;&#38656;&#35201;&#25105;&#20204;&#26816;&#27979;&#65306;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>1. </span><span style=3D'font-size:=
+12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#30830;&#2345=
+0;&#33258;&#23450;&#20041;&#20132;&#20114;&#21487;&#29992;&#12290;&#20363;&=
+#22914;&#20320;&#30340;<span
+lang=3DEN-US>APP</span>&#21487;&#20197;&#26377;&#20123;&#33258;&#23450;&#20=
+041;&#24555;&#25463;&#38190;&#32452;&#21512;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>2. </span><span style=3D'font-size:=
+12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#30830;&#2345=
+0;&#22810;&#31181;&#36755;&#20837;&#24418;&#24335;&#20999;&#25442;&#21487;&=
+#29992;&#12290;&#20363;&#22914;&#22312;&#19968;&#20010;&#22330;&#26223;&#20=
+013;&#29992;&#25143;&#21487;&#33021;&#20250;&#20351;&#29992;&#22810;&#31181=
+;&#36755;&#20837;&#26041;&#24335;&#32467;&#26463;&#19968;&#20010;
+&#20219;&#21153;&#65292;&#27604;&#22914;&#22768;&#38899;&#12289;&#25163;&#2=
+1183;&#12289;&#40736;&#26631;&#21644;&#38190;&#30424;&#31561;&#31561;&#1229=
+0;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><o:p>&nbsp;</o:p></span=
+></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>Gaze<span
+style=3D'mso-tab-count:1'>&nbsp; </span>input<span style=3D'mso-tab-count:1=
+'> </span></span></b><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20957;&#35270;&#36755;&#=
+20837;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#22312;&#20840;&#24687;&#24212;&#29992;&#20013;&#65292;&#20957=
+;&#35270;&#26159;&#31532;&#19968;&#31181;&#36755;&#20837;&#24418;&#24335;&#=
+65292;&#34987;&#29992;&#20110;&#23450;&#20301;&#29289;&#20307;&#65288;&#211=
+51;&#33021;&#21644;<span
+lang=3DEN-US>PC</span>&#30340;&#20809;&#26631;&#25351;&#38024;&#31867;&#202=
+84;&#65289;&#12290;&#20957;&#35270;&#21578;&#35785;&#20320;&#29992;&#25143;=
+&#27491;&#22312;&#30475;&#21521;&#19990;&#30028;&#20013;&#30340;&#20301;&#3=
+2622;&#65292;&#35753;&#20320;&#33021;&#22815;&#30830;&#23450;&#20182;&#2020=
+4;&#30340;&#24847;&#22270;&#12290;&#22312;&#29616;&#23454;&#19990;&#30028;&=
+#20013;&#65292;&#20320;&#36890;&#24120;&#20250;&#30447;&#30528;&#20320;&#25=
+171;&#31639;&#19982;&#20043;&#20132;&#20114;&#30340;&#29289;&#20307;&#12290=
+;&#36825;&#31181;&#26041;&#24335;&#19982;&#20957;&#35270;&#30456;&#21516;&#=
+12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>HoloLens</span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20351;&#29992;&#29992;&#25143;&#22836;&#37096;&#30340;&#20301=
+;&#32622;&#21644;&#26041;&#21521;&#65292;&#32780;&#19981;&#26159;&#30524;&#=
+30555;&#65292;&#26469;&#30830;&#23450;&#20182;&#20204;&#35270;&#32447;&#214=
+42;&#25968;&#12290;&#20320;&#21487;&#20197;&#25226;&#20957;&#35270;&#24403;=
+&#20316;&#20174;&#29992;&#25143;&#20004;&#30524;&#20043;&#38388;&#21521;&#2=
+7491;&#21069;&#26041;&#21457;&#23556;&#30340;&#19968;&#20010;&#28608;&#2080=
+9;&#25351;&#31034;&#22120;&#12290;&#24403;&#29992;&#25143;&#29615;&#35270;&=
+#25151;&#38388;&#26102;&#65292;&#20320;&#30340;&#24212;&#29992;&#21487;&#20=
+197;&#36890;&#36807;&#32447;&#30340;&#30456;&#20132;&#26469;&#30830;&#23450=
+;&#29992;&#25143;&#24403;&#21069;&#27491;&#22312;&#30475;&#21521;&#19990;&#=
+30028;&#20013;&#21738;&#20123;&#34394;&#25311;&#25110;&#30495;&#23454;&#292=
+89;&#20307;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#22312;<span
+lang=3DEN-US>HoloLens</span>&#65292;&#20132;&#20114;&#21160;&#20316;&#19968=
+;&#33324;&#20174;&#29992;&#25143;&#30340;&#20957;&#35270;&#20013;&#25512;&#=
+23548;&#20986;&#30446;&#26631;&#23545;&#35937;&#65292;&#32780;&#19981;&#261=
+59;&#35797;&#22270;&#22312;&#25163;&#30340;&#20301;&#32622;&#30452;&#25509;=
+&#28210;&#26579;&#25110;&#20132;&#20114;&#12290;&#19968;&#26086;&#19968;&#2=
+0010;&#20132;&#20114;&#24050;&#32463;&#24320;&#22987;&#65292;&#22312;&#2035=
+1;&#29992;&#25805;&#20316;&#25110;&#23548;&#33322;&#25163;&#21183;&#30340;&=
+#21516;&#26102;&#65292;&#20063;&#21487;&#20197;&#20351;&#29992;&#25163;&#30=
+340;&#30456;&#23545;&#36816;&#21160;&#26469;&#25511;&#21046;&#25163;&#21183=
+;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20351;&#29992;&#20957;&#35270;<span
+lang=3DEN-US>Uses of gaze<o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20316;&#20026;&#19968;&#20010;&#20840;&#24687;&#24212;&#29992=
+;&#24320;&#21457;&#32773;&#65292;&#20320;&#21487;&#20197;&#20351;&#29992;&#=
+20957;&#35270;&#20570;&#21040;&#24456;&#22810;&#20107;&#24773;&#65306;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:12.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20320;&#3034=
+0;&#24212;&#29992;&#21487;&#20197;&#36890;&#36807;&#21028;&#26029;&#20957;&=
+#35270;&#23556;&#32447;&#19982;&#20840;&#24687;&#29289;&#20307;&#30340;&#20=
+132;&#21449;&#26469;&#21028;&#26029;&#29992;&#25143;&#24403;&#21069;&#22312=
+;&#20851;&#27880;&#20160;&#20040;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:12.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20320;&#3034=
+0;&#24212;&#29992;&#21487;&#20197;&#20511;&#21161;&#22522;&#20110;&#20957;&=
+#35270;&#23556;&#32447;&#30340;&#25163;&#21183;&#26469;&#23454;&#29616;&#36=
+873;&#20013;&#12289;&#28608;&#27963;&#12289;&#25302;&#25341;&#25110;&#20854=
+;&#20182;&#23545;&#20840;&#24687;&#29289;&#20307;&#30340;&#20132;
+&#20114;&#12290;<span lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:12.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#36890;&#3680=
+7;&#20957;&#35270;&#23556;&#32447;&#19982;&#31354;&#38388;&#21305;&#37197;&=
+#32593;&#26684;&#30340;&#20132;&#21449;&#65292;&#20320;&#30340;&#24212;&#29=
+992;&#21487;&#20197;&#35753;&#29992;&#25143;&#25918;&#32622;&#20840;&#24687=
+;&#29289;&#20307;&#21040;&#30495;&#23454;&#19990;&#30028;&#30340;
+&#34920;&#38754;&#12290;<span lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:12.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20320;&#3034=
+0;&#24212;&#29992;&#21487;&#20197;&#30693;&#36947;&#20309;&#26102;&#29992;&=
+#25143;&#27809;&#26377;&#27880;&#35270;&#22312;&#37325;&#35201;&#29289;&#20=
+307;&#30340;&#26041;&#21521;&#65292;&#36825;&#20351;&#24471;&#20320;&#21487=
+;&#20197;&#36890;&#36807;&#22270;&#24418;&#25110;&#32773;&#22768;
+&#38899;&#25552;&#37266;&#23558;&#29992;&#25143;&#24102;&#22238;&#21040;&#2=
+7491;&#30830;&#30340;&#26041;&#21521;&#19978;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#25351;&#38024;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Cursor<o:p=
+></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#22823;&#37096;&#20998;&#24212;&#29992;&#20351;&#29992;&#25351=
+;&#38024;&#65288;&#25110;&#32773;&#20854;&#20182;&#35270;&#35273;<span
+lang=3DEN-US>/</span>&#21548;&#35273;&#25351;&#31034;&#65289;&#26469;&#2411=
+0;&#21161;&#29992;&#25143;&#30693;&#36947;&#20182;&#20204;&#33021;&#22815;&=
+#21644;&#20160;&#20040;&#20132;&#20114;&#12290;&#20856;&#22411;&#30340;&#20=
+570;&#27861;&#26159;&#65292;&#20320;&#23558;&#25351;&#38024;&#23450;&#20301=
+;&#22312;&#19990;&#30028;&#20013;&#37027;&#20123;&#29992;&#25143;&#20957;&#=
+35270;&#20248;&#20808;&#21644;&#29289;&#20307;&#20132;&#20114;&#30340;&#203=
+01;&#32622;&#65292;&#36825;&#20123;&#20301;&#32622;&#21487;&#33021;&#20250;=
+&#26159;&#20840;&#24687;&#29289;&#20307;&#25110;&#30495;&#23454;&#19990;&#3=
+0028;&#30340;&#34920;&#38754;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<div style=3D'mso-element:frame;mso-element-frame-height:258.0pt;mso-elemen=
+t-wrap:
+no-wrap-beside;mso-element-anchor-vertical:paragraph;mso-element-anchor-hor=
+izontal:
+column;mso-element-top:.05pt'>
+
+<table cellspacing=3D0 cellpadding=3D0 hspace=3D0 vspace=3D0 height=3D430>
+ <tr>
+  <td valign=3Dtop align=3Dleft height=3D430 style=3D'padding-top:0cm;paddi=
+ng-right:
+  0cm;padding-bottom:0cm;padding-left:0cm'>
+  <p class=3DMsoNormal style=3D'mso-element:frame;mso-element-frame-height:=
+258.0pt;
+  mso-element-wrap:no-wrap-beside;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:column;mso-element-top:.05pt'><span lang=3D=
+EN-US
+  style=3D'mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t=
+75"
+   coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@=
+4@5l@4@11@9@11@9@5xe"
+   filled=3D"f" stroked=3D"f">
+   <v:stroke joinstyle=3D"miter"/>
+   <v:formulas>
+    <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn=3D"sum @0 1 0"/>
+    <v:f eqn=3D"sum 0 0 @1"/>
+    <v:f eqn=3D"prod @2 1 2"/>
+    <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+    <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @0 0 1"/>
+    <v:f eqn=3D"prod @6 1 2"/>
+    <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+    <v:f eqn=3D"sum @8 21600 0"/>
+    <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"=
+/>
+   <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+  </v:shapetype><v:shape id=3D"_x56fe__x7247__x0020_1" o:spid=3D"_x0000_i10=
+25"
+   type=3D"#_x0000_t75" alt=3D"image70" style=3D'width:258pt;height:258pt;
+   visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src=3D"HololensAPI.files/image001.jpg" o:title=3D"image70"/>
+  </v:shape><![endif]--><![if !vml]><img width=3D344 height=3D344
+  src=3D"HololensAPI.files/image003.jpg" alt=3Dimage70 v:shapes=3D"_x56fe__=
+x7247__x0020_1"><![endif]></span><span
+  lang=3DEN-US style=3D'font-size:1.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20026;&#29992;&#25143;&#30340;&#20957;&#35270;&#37197;&#19978=
+;&#21160;&#20316;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp; </span>Giving action to=
+ the
+user's<span style=3D'mso-tab-count:1'>&nbsp; </span>gaze<o:p></o:p></span><=
+/span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#29992;&#25143;&#36890;&#36807;&#20957;&#35270;&#23450;&#20301=
+;&#21040;&#19968;&#20010;&#20840;&#24687;&#29289;&#20307;&#25110;&#30495;&#=
+23454;&#19990;&#30028;&#29289;&#20307;&#65292;&#19979;&#19968;&#27493;&#236=
+01;&#26159;&#23545;&#27492;&#29289;&#20307;&#20570;&#21160;&#20316;&#12290;=
+&#22312;<span
+lang=3DEN-US>HoloLens</span>&#19978;&#65292;&#29992;&#25143;&#36827;&#34892=
+;&#25805;&#20316;&#30340;&#22522;&#26412;&#26041;&#24335;&#26159;&#36890;&#=
+36807;&#35821;&#38899;&#25110;&#25163;&#21183;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>Gesture
+input</span></b><b style=3D'mso-bidi-font-weight:normal'><span style=3D'fon=
+t-size:
+14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#25163=
+;&#21183;&#36755;&#20837;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#25163;&#21183;&#26159;<span
+lang=3DEN-US>HoloLens</span>&#19977;&#20010;&#39318;&#35201;&#36755;&#20837=
+;&#24418;&#24335;&#20043;&#19968;&#12290;&#19968;&#26086;&#20320;&#20351;&#=
+29992;&#20957;&#35270;&#23450;&#20301;&#20102;&#19968;&#20010;&#20840;&#246=
+87;&#22270;&#20687;&#65292;&#25163;&#21183;&#20801;&#35768;&#20320;&#19982;=
+&#23427;&#20132;&#20114;&#12290;&#25163;&#21183;&#36755;&#20837;&#20801;&#3=
+5768;&#20320;&#20351;&#29992;&#25163;&#25110;&#32773;&#28857;&#20987;&#2212=
+0;&#21407;&#29983;&#22320;&#19982;&#20840;&#24687;&#22270;&#20687;&#20132;&=
+#20114;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#25163;&#21183;&#20043;&#22806;&#65292;&#20320;&#20063;&#21487=
+;&#20197;&#22312;&#24212;&#29992;&#20013;&#20351;&#29992;&#35821;&#38899;&#=
+36755;&#20837;&#26469;&#20132;&#20114;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#25163;&#21183;&#35782;&#21035;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp; </span>Hand<span
+style=3D'mso-tab-count:1'> </span>recognition<o:p></o:p></span></span></b><=
+/p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'>HoloLens</span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#36890;&#36807;&#36861;&#36394;&#25163;&#26469;&#23454;&#29616=
+;&#25163;&#21183;&#35782;&#21035;&#12290;<span
+lang=3DEN-US>HoloLens</span>&#33021;&#22815;&#26126;&#30333;&#25163;&#20160=
+;&#20040;&#26102;&#20505;&#20934;&#22791;&#22909;&#20102;&#65288;&#31446;&#=
+36215;&#39135;&#25351;&#25163;&#32972;&#38754;&#21521;&#33080;&#65289;&#251=
+10;&#32773;&#28857;&#20987;&#65288;&#25163;&#32972;&#21521;&#33080;&#39135;=
+&#25351;&#28857;&#19979;&#65289;&#12290;&#24403;&#25163;&#22788;&#20110;&#2=
+0854;&#20182;&#23039;&#21183;&#26102;&#65292;<span
+lang=3DEN-US>HoloLens</span>&#23558;&#20250;&#24573;&#30053;&#23427;&#20204=
+;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>HoloLens</span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#22312;&#35774;&#22791;&#21069;&#26041;&#30340;&#38181;&#24418=
+;&#33539;&#22260;&#20869;&#36861;&#36394;&#25163;&#37096;&#36816;&#21160;&#=
+65292;&#36825;&#29255;&#21306;&#22495;&#34987;&#31216;&#20026;&#25163;&#211=
+83;&#26694;&#65288;<span
+lang=3DEN-US>gesture frame</span>&#65289;&#65292;&#36825;&#25299;&#23637;&#=
+20102;&#20840;&#24687;&#22270;&#20687;&#26174;&#31034;&#35270;&#22270;&#303=
+40;&#19978;&#19979;&#24038;&#21491;&#36793;&#30028;&#12290;&#36825;&#20801;=
+&#35768;&#20320;&#25163;&#21183;&#36755;&#20837;&#26102;&#65292;&#21487;&#2=
+0197;&#33298;&#36866;&#22320;&#20445;&#25345;&#30528;&#25163;&#33218;&#2436=
+7;&#26354;&#12290;&#24403;&#20351;&#29992;&#28857;&#20987;&#22120;&#26102;&=
+#65292;&#23601;&#19981;&#24517;&#23558;&#25163;&#20445;&#25345;&#22312;&#25=
+163;&#21183;&#26694;&#20043;&#20013;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#23545;&#20110;&#27599;&#20010;<span
+lang=3DEN-US>HoloLens</span>&#35782;&#21035;&#30340;&#25163;&#65292;&#20320=
+;&#33021;&#22815;&#24471;&#21040;&#23427;&#30340;&#20301;&#32622;&#65288;&#=
+26080;&#26041;&#21521;&#65289;&#21644;&#20182;&#30340;&#28857;&#20987;&#293=
+66;&#24577;&#12290;&#24403;&#25163;&#25509;&#36817;&#25163;&#21183;&#26694;=
+&#36793;&#32536;&#26102;&#65292;&#20320;&#33021;&#24471;&#21040;&#19968;&#2=
+0010;&#26041;&#21521;&#21521;&#37327;&#65292;&#20320;&#21487;&#20197;&#2555=
+2;&#37266;&#29992;&#25143;&#23558;&#25163;&#31227;&#22238;<span
+lang=3DEN-US>HoloLens</span>&#21487;&#35782;&#21035;&#30340;&#21306;&#22495=
+;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20132;&#20114;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Interactio=
+ns<o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'>HoloLens</span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#30340;&#26680;&#24515;&#20132;&#20114;&#26159;&#28857;&#20987=
+;&#65288;<span
+lang=3DEN-US>press</span>&#65289;&#12289;&#26494;&#24320;&#65288;<span
+lang=3DEN-US>release</span>&#65289;&#21644;&#32509;&#24320;&#65288;<span
+lang=3DEN-US>bloom</span>&#65289;&#25163;&#21183;&#12290;<span lang=3DEN-US=
+><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:18.0pt;mso-char-indent-count:1.5'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'>Air-tap</span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#25163;&#21183;&#65292;&#39318;&#20808;&#26159;&#25351;&#38754=
+;&#21521;&#20102;&#33080;&#28857;&#19979;&#65292;&#36825;&#26159;&#28857;&#=
+20987;&#25163;&#21183;&#65307;&#38543;&#21518;&#39135;&#25351;&#21521;&#199=
+78;&#26494;&#24320;&#65292;&#36825;&#26159;&#26494;&#24320;&#25163;&#21183;=
+&#12290;<span
+lang=3DEN-US> Air-tap</span>&#20250;&#23454;&#29616;&#23545;&#20840;&#24687=
+;&#22270;&#20687;&#30340;&#36873;&#25321;&#65292;&#28857;&#20987;&#22120;&#=
+25110;&#32773;&#35821;&#38899;&#21629;&#20196;&#20063;&#33021;&#20570;&#210=
+40;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span>Bloom</span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#26159;&#24456;&#29305;&#21035;&#30340;&#31995;&#32479;&#25163=
+;&#21183;&#65292;&#34987;&#29992;&#20110;&#20174;&#20840;&#24687;&#24212;&#=
+29992;&#20013;&#21796;&#36215;&#24320;&#22987;&#33756;&#21333;&#12290;&#368=
+25;&#21644;&#22312;&#38190;&#30424;&#19978;&#28857;&#20987;<span
+lang=3DEN-US>Windows</span>&#38190;&#25110;&#32773;<span lang=3DEN-US>Xbox<=
+/span>&#25163;&#26564;&#19978;&#28857;&#20987;<span
+lang=3DEN-US>Xbox</span>&#25353;&#38062;&#21151;&#33021;&#31867;&#20284;&#1=
+2290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style=3D'font-s=
+ize:
+12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20026=
+;&#20102;&#20570;<span
+lang=3DEN-US>Bloom</span>&#25163;&#21183;&#65292;&#20808;&#25893;&#32039;&#=
+25331;&#22836;&#65292;&#25163;&#24515;&#21521;&#19978;&#65292;&#28982;&#215=
+18;&#20116;&#25351;&#32509;&#24320;&#12290;&#36890;&#36807;&#35828;&#65306;=
+&#8220;<span
+lang=3DEN-US>Hey Cortanna</span>&#65292;<span lang=3DEN-US>Go Home</span>&#=
+8221;&#20063;&#33021;&#21796;&#36215;&#24320;&#22987;&#33756;&#21333;&#1229=
+0;&#27880;&#24847;&#65306;&#20320;&#30340;&#24212;&#29992;&#26080;&#27861;&=
+#21051;&#24847;&#21709;&#24212;<span
+lang=3DEN-US>Bloom</span>&#25163;&#21183;&#65292;&#22240;&#20026;&#23427;&#=
+21482;&#33021;&#34987;&#31995;&#32479;&#21709;&#24212;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#25163;&#21183;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Gesture<o:=
+p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20320;&#30340;&#24212;&#29992;&#21487;&#20197;&#35782;&#21035=
+;&#31616;&#21333;&#28857;&#20987;&#21644;&#26494;&#24320;&#20043;&#22806;&#=
+26356;&#22810;&#30340;&#25163;&#21183;&#12290;&#36890;&#36807;&#31227;&#211=
+60;&#25163;&#25110;&#20351;&#29992;&#28857;&#20987;&#22120;&#65292;&#20320;=
+&#21487;&#20197;&#20570;&#26356;&#22810;&#22797;&#26434;&#30340;&#25163;&#2=
+1183;&#65306;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><b style=3D'mso-bidi-font-we=
+ight:
+normal'><span style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#3859=
+7;&#40657;","sans-serif"'>&#38271;&#25353;<span
+lang=3DEN-US><span style=3D'mso-spacerun:yes'>&nbsp; </span>Hold</span></sp=
+an></b><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#65306;&#20445;&#25345;&#28857;&#20987;&#25163;&#21183;&#30452=
+;&#21040;&#35302;&#21457;&#31995;&#32479;&#38271;&#25353;&#25163;&#21183;&#=
+38408;&#20540;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span></b><b style=3D'mso-bidi-fon=
+t-weight:
+normal'><span style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#3859=
+7;&#40657;","sans-serif"'>&#25805;&#20316;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Manipulati=
+on</span></span></b><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'>:<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20445;&#25345;&#28857;&#20987;&#25163;&#21183;&#65292;&#22312=
+;<span
+lang=3DEN-US>3D</span>&#19990;&#30028;&#20013;&#32477;&#23545;&#36816;&#211=
+60;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><b style=3D'mso-bidi-font-we=
+ight:
+normal'><span style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#3859=
+7;&#40657;","sans-serif"'>&#23548;&#33322;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Navigation=
+</span></span></b><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'>:<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20445;&#25345;&#28857;&#20987;&#25163;&#21183;&#65292;&#22312=
+;&#19968;&#20010;&#26631;&#20934;<span
+lang=3DEN-US>3D</span>&#31435;&#26041;&#31354;&#38388;&#20869;&#30456;&#235=
+45;&#36816;&#21160;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>Hold</span></b=
+><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#25163;&#21183;</span></b=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#21644;<b
+style=3D'mso-bidi-font-weight:normal'>&#35302;&#23631;&#19978;&#38271;&#253=
+53;&#25163;&#21183;</b>&#31867;&#20284;&#65292;&#34987;&#29992;&#20110;&#25=
+191;&#34892;&#20108;&#32423;&#34892;&#20026;&#65292;&#20363;&#22914;&#25343=
+;&#36215;&#19968;&#20010;&#23545;&#35937;&#32780;&#19981;&#26159;&#28608;&#=
+27963;&#23427;&#25110;&#32773;&#26174;&#31034;&#19978;&#19979;&#25991;&#337=
+56;&#21333;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#25805;&#32437;&#25163;&#=
+21183;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Manipulati=
+on<span
+style=3D'mso-spacerun:yes'>&nbsp; </span></span></span></b><span lang=3DEN-=
+US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#24403;&#20320;&#24819;&#35201;&#20840;&#24687;&#22270;&#20687=
+;<span
+lang=3DEN-US>1</span>&#65306;<span lang=3DEN-US>1</span>&#21709;&#24212;&#2=
+9992;&#25143;&#25163;&#37096;&#31227;&#21160;&#26102;&#65292;&#25805;&#3243=
+7;&#25163;&#21183;&#33021;&#34987;&#29992;&#20110;&#31227;&#21160;&#12289;&=
+#32553;&#25918;&#25110;&#26059;&#36716;&#20840;&#24687;&#22270;&#20687;&#12=
+290;&#22914;&#27492;&#30340;&#19968;&#20010;&#29992;&#22788;&#26159;&#20351=
+;&#24471;&#29992;&#25143;&#21487;&#20197;&#22312;&#19990;&#30028;&#20013;&#=
+32472;&#21046;&#22270;&#20687;&#25110;&#20316;&#30011;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#20351;&#29992;&#25152;&#26377;&#30340;&#25163;&#21183;&#26102=
+;&#65292;&#25805;&#32437;&#25163;&#21183;&#30340;&#21021;&#22987;&#30446;&#=
+26631;&#24212;&#35813;&#36890;&#36807;&#20957;&#35270;&#26469;&#36873;&#200=
+13;&#12290;&#19968;&#26086;&#28857;&#20987;&#25163;&#21183;&#24320;&#22987;=
+&#65292;&#36890;&#36807;&#25163;&#37096;&#31227;&#21160;&#30340;&#20219;&#2=
+0309;&#23545;&#23545;&#35937;&#30340;&#25805;&#20316;&#37117;&#33021;&#2281=
+5;&#34987;&#22788;&#29702;&#65292;&#22312;&#29992;&#25143;&#25805;&#20316;&=
+#20840;&#24687;&#22270;&#20687;&#26102;&#65292;&#20174;&#32780;&#20351;&#24=
+471;&#29992;&#25143;&#24471;&#20197;&#33258;&#30001;&#22320;&#22235;&#22788=
+;&#24352;&#26395;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#25805;&#32437;&#34892;&#20026;&#21482;&#33021;&#20351;&#29992=
+;&#25163;&#21183;&#26469;&#23454;&#29616;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#23548;&#33322;&#25163;&#=
+21183;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>Navigation=
+<span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><span style=3D'font-size:12.0pt;font-family:"&#244=
+94;&#36719;&#38597;&#40657;","sans-serif"'>&#23548;&#33322;&#25163;&#21183;=
+&#23601;&#20687;&#19968;&#20010;&#34394;&#25311;&#30340;&#25805;&#32437;&#2=
+6438;&#65292;&#33021;&#22815;&#29992;&#20110;<span
+lang=3DEN-US>UI</span>&#25511;&#20214;&#23548;&#33322;&#65292;&#20363;&#229=
+14;&#24359;&#24418;&#33756;&#21333;&#12290;&#36890;&#36807;&#28857;&#20987;=
+&#24320;&#22987;&#25163;&#21183;&#65292;&#28982;&#21518;&#22312;&#20197;&#2=
+8857;&#20987;&#22788;&#20026;&#20013;&#24515;&#30340;&#26631;&#20934;&#3143=
+5;&#26041;&#31354;&#38388;&#20013;&#31227;&#21160;&#25163;&#37096;&#12290;&=
+#20320;&#21487;&#20197;&#27839;&#30528;<span
+lang=3DEN-US>X</span>&#12289;<span lang=3DEN-US>Y</span>&#12289;<span lang=
+=3DEN-US>Z</span>&#36724;&#31227;&#21160;&#25163;&#37096;&#65292;&#36825;&#=
+22238;&#24102;&#26469;&#25968;&#20540;<span
+lang=3DEN-US>-1</span>&#21040;<span lang=3DEN-US>1</span>&#30340;&#21464;&#=
+21270;&#65292;&#21021;&#22987;&#20301;&#32622;&#30340;&#20540;&#20026;<span
+lang=3DEN-US>0. <b style=3D'mso-bidi-font-weight:normal'><o:p></o:p></b></s=
+pan></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#23548;&#33322;&#25163;&#21183;&#21487;&#20197;&#29992;&#20110=
+;&#26500;&#24314;&#22522;&#20110;&#36895;&#24230;&#25345;&#32493;&#28378;&#=
+21160;&#25110;&#32553;&#25918;&#30340;&#25163;&#21183;&#65292;&#36825;&#216=
+44;&#22312;<span
+lang=3DEN-US>2D<span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; </span>UI</span>&#19978;&#36890;&#36807;&#25353;&#20303;&#40736;&#26631;=
+&#28378;&#36718;&#19978;&#19979;&#31227;&#21160;&#31867;&#20284;&#12290;<sp=
+an
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#23450;&#21521;&#23548;&#33322;&#26159;&#25351;&#22312;&#29305=
+;&#23450;&#36724;&#19978;&#35782;&#21035;&#36816;&#21160;&#30452;&#21040;&#=
+27492;&#36724;&#19978;&#38408;&#20540;&#30340;&#33021;&#21147;&#12290;&#244=
+03;&#24212;&#29992;&#20013;&#24320;&#21457;&#32773;&#21551;&#29992;&#20102;=
+&#22810;&#36724;&#36816;&#21160;&#65292;&#36825;&#24456;&#26377;&#29992;&#6=
+5292;&#20363;&#22914;&#22914;&#26524;&#19968;&#20010;&#24212;&#29992;&#3498=
+7;&#35774;&#32622;&#20026;&#35782;&#21035;<span
+lang=3DEN-US>X</span>&#12289;<span lang=3DEN-US>Y</span>&#36724;&#19978;&#3=
+0340;&#36816;&#21160;&#65292;&#20294;&#21516;&#26102;<span
+lang=3DEN-US>X</span>&#36724;&#34987;&#35774;&#20026;&#23450;&#21521;&#2354=
+8;&#33322;&#12290;&#22312;&#36825;&#31181;&#24773;&#20917;&#19979;&#65292;&=
+#22914;&#26524;&#25163;&#20063;&#22312;<span
+lang=3DEN-US>Y</span>&#36724;&#19978;&#31227;&#21160;&#65292;&#21482;&#3520=
+1;&#20182;&#20204;&#20445;&#25345;&#22312;<span
+lang=3DEN-US>X</span>&#36724;&#20551;&#24819;&#23548;&#36712;&#21306;&#3838=
+8;&#19978;&#65292;&#31995;&#32479;&#20250;&#35782;&#21035;&#21040;<span
+lang=3DEN-US>X</span>&#36724;&#19978;&#30340;&#25163;&#21183;&#31227;&#2116=
+0;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#22312;<span
+lang=3DEN-US>HoloLens<span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </s=
+pan>2D</span>&#24212;&#29992;&#20869;&#65292;&#29992;&#25143;&#21487;&#2019=
+7;&#20351;&#29992;&#22402;&#30452;&#23548;&#33322;&#25163;&#21183;&#26469;&=
+#28378;&#21160;&#12289;&#32553;&#25918;&#25110;&#22312;&#24212;&#29992;&#20=
+869;&#25302;&#25341;&#12290;&#20026;&#20102;&#27169;&#25311;&#21516;&#26679=
+;&#31867;&#22411;&#30340;&#35302;&#25720;&#25163;&#21183;&#65292;&#23548;&#=
+33322;&#25163;&#21183;&#20026;&#24212;&#29992;&#34394;&#25311;&#20102;&#251=
+63;&#25351;&#35302;&#25720;&#65292;&#23454;&#38469;&#20307;&#39564;&#21644;=
+&#35302;&#23631;&#19978;&#30340;&#30456;&#24212;&#25163;&#21183;&#31867;&#2=
+0284;&#12290;&#29992;&#25143;&#21487;&#20197;&#36890;&#36807;&#20999;&#2544=
+2;<span
+lang=3DEN-US>Holobar</span>&#19978;&#30340;<span lang=3DEN-US>Scroll/Drag/Z=
+oom</span>&#24037;&#20855;&#26469;&#26174;&#31034;&#30456;&#24212;&#34892;&=
+#20026;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>Voice<span
+style=3D'mso-tab-count:1'> </span>input<span style=3D'mso-tab-count:1'> </s=
+pan></span></b><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#35821;&#38899;&#36755;&#=
+20837;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style=3D'font-s=
+ize:
+12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#35821=
+;&#38899;&#26159;<span
+lang=3DEN-US>HoloLens</span>&#19977;&#22823;&#37325;&#35201;&#36755;&#20837=
+;&#24418;&#24335;&#20043;&#19968;&#12290;&#23427;&#20801;&#35768;&#20320;&#=
+30452;&#25509;&#36890;&#36807;&#35821;&#35328;&#25511;&#21046;&#20840;&#246=
+87;&#22270;&#20687;&#65292;&#32780;&#19981;&#29992;&#20511;&#21161;&#25163;=
+&#21183;&#12290;&#20320;&#21482;&#35201;&#20957;&#35270;&#20840;&#24687;&#2=
+2270;&#20687;&#28982;&#21518;&#35828;&#20986;&#35821;&#38899;&#21629;&#2019=
+6;&#21363;&#21487;&#12290;&#35821;&#38899;&#36755;&#20837;&#26159;&#33258;&=
+#28982;&#30340;&#20132;&#20114;&#26041;&#24335;&#65292;&#23427;&#33021;&#22=
+815;&#24456;&#22909;&#30340;&#25913;&#21892;&#22797;&#26434;&#30340;&#20132=
+;&#20114;&#65292;&#22240;&#20026;&#36890;&#36807;&#19968;&#26465;&#35821;&#=
+38899;&#21629;&#20196;&#21363;&#21487;&#20197;&#20943;&#23569;&#24456;&#228=
+10;&#22797;&#26434;&#30340;<span
+lang=3DEN-US>UI</span>&#33756;&#21333;&#12290;<span lang=3DEN-US><o:p></o:p=
+></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:12.0pt;font-fami=
+ly:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>HoloLens</span><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#35821;&#38899;&#36755;&#20837;&#26159;&#30001;&#21516;<span
+lang=3DEN-US>UWP</span>&#24212;&#29992;&#19968;&#26679;&#30340;&#35821;&#38=
+899;&#35782;&#21035;&#24341;&#25806;&#25903;&#25345;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#36873;&#20013;&#21629;&#20196;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp; </span>The &quot;select=
+&quot;
+command<o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:24.0pt;mso-char-indent-count:2.0'=
+><span
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#21363;&#20351;&#27809;&#26377;&#29305;&#22320;&#20026;&#24212=
+;&#29992;&#28155;&#21152;&#35821;&#38899;&#21629;&#20196;&#29305;&#24615;&#=
+65292;&#29992;&#25143;&#36824;&#26159;&#33021;&#22815;&#36890;&#36807;&#358=
+28;&#65306;&#8220;<span
+lang=3DEN-US>select</span>&#8221;&#26469;&#31616;&#21333;&#22320;&#28608;&#=
+27963;&#20320;&#30340;&#20840;&#24687;&#22270;&#20687;&#12290;&#36825;&#200=
+10;&#34892;&#20026;&#21644;&#29992;&#25163;&#25110;&#28857;&#20987;&#22120;=
+&#28857;&#20987;&#31867;&#20284;&#12290;&#20320;&#23558;&#20250;&#21548;&#2=
+1040;&#19968;&#22768;&#25552;&#31034;&#38899;&#65292;&#21516;&#26102;&#2025=
+0;&#30475;&#21040;&#19968;&#26465;&#25552;&#31034;&#65306;&#8220;<span
+lang=3DEN-US>Select</span>&#8221;&#65292;&#29992;&#20197;&#30830;&#35748;&#=
+20320;&#30340;&#35821;&#38899;&#25351;&#20196;&#12290;&#8220;<span
+lang=3DEN-US>Select</span>&#8221;&#21629;&#20196;&#26159;&#30001;&#20302;&#=
+21151;&#32791;&#20851;&#38190;&#35789;&#35782;&#21035;&#31639;&#27861;&#264=
+69;&#20445;&#35777;&#30340;&#65292;&#25152;&#20197;&#20219;&#20309;&#26102;=
+&#20505;&#20320;&#37117;&#33021;&#20351;&#29992;&#23427;&#65292;&#36825;&#2=
+1482;&#20250;&#24102;&#26469;&#26497;&#20302;&#30340;&#30005;&#37327;&#2998=
+3;&#21629;&#21608;&#26399;&#24433;&#21709;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'>&#28608;&#27963;<span
+lang=3DEN-US>Cortana<span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp=
+; </span>Hey<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>Cortana<o:p></o:p></spa=
+n></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span></span></b><span style=3D'fo=
+nt-size:
+12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20219=
+;&#20309;&#26102;&#20505;&#20320;&#37117;&#21487;&#20197;&#36890;&#36807;&#=
+35828;&#65306;<span
+lang=3DEN-US>&quot;Hey<span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nb=
+sp; </span>Cortana&quot;</span>&#26469;&#28608;&#27963;&#23427;&#65292;&#24=
+182;&#19988;&#19981;&#29992;&#31561;&#24453;&#23427;&#20986;&#29616;&#65292=
+;&#21363;&#21487;&#32487;&#32493;&#38382;&#23427;&#38382;&#39064;&#25110;&#=
+32473;&#20986;&#25351;&#20196;&#12290;&#20851;&#20110;<span
+lang=3DEN-US>Cortana</span>&#30340;&#26356;&#22810;&#20449;&#24687;&#21644;=
+&#20320;&#33021;&#20570;&#20160;&#20040;&#65292;&#20320;&#30452;&#25509;&#3=
+5810;&#38382;&#23427;&#21363;&#21487;&#12290;&#21487;&#20197;&#35828;&#6530=
+6;<span
+lang=3DEN-US>&quot;Hey Cortana, What<span style=3D'mso-tab-count:1'>&nbsp;&=
+nbsp; </span>Can
+I Say?&quot;,</span>&#28982;&#21518;&#23427;&#20250;&#26356;&#20986;&#20316=
+;&#19994;&#21644;&#25512;&#33616;&#30340;&#35821;&#38899;&#21629;&#20196;&#=
+21015;&#34920;&#12290;&#22914;&#26524;&#20320;&#24050;&#32463;&#36827;&#208=
+37;<span
+lang=3DEN-US>Cortana</span>&#24212;&#29992;&#65292;&#28857;&#20987;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </spa=
+n>?<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span>&#25353;&#38062;=
+&#21516;&#26679;&#21487;&#20197;&#33719;&#24471;&#25552;&#31034;&#21015;&#3=
+4920;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>HoloLens</span></b><b style=3D'mso-=
+bidi-font-weight:
+normal'><span style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#3859=
+7;&#40657;","sans-serif"'>&#29305;&#23450;&#35821;&#38899;&#21629;&#20196;<=
+span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>HoloLens-s=
+pecific<span
+style=3D'mso-tab-count:1'> </span>commands <o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><span
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><b style=3D'mso-bidi-font-weight:no=
+rmal'>Go
+Home<span style=3D'mso-tab-count:1'>&nbsp; </span>-</b></span><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#21796;&#20986;&#24320;&#=
+22987;&#33756;&#21333;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Launch&lt;</span></b><b style=3D'ms=
+o-bidi-font-weight:
+normal'><span style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#3859=
+7;&#40657;","sans-serif"'>&#24212;&#29992;&#21517;<span
+lang=3DEN-US>&gt;<span style=3D'mso-tab-count:1'>&nbsp; </span>-</span>&#25=
+171;&#24320;&#24212;&#29992;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Take<span style=3D'mso-tab-count:1'=
+>&nbsp;&nbsp;&nbsp; </span>a<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>picture <o:p></o:p></sp=
+an></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Start<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>recording <o:p></o:p></=
+span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Stop<span style=3D'mso-tab-count:1'=
+>&nbsp;&nbsp;&nbsp; </span>record
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Increase<span style=3D'mso-tab-coun=
+t:1'>&nbsp;&nbsp;&nbsp; </span>the<span
+style=3D'mso-tab-count:1'> </span>brightness <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Decrease<s=
+pan
+style=3D'mso-tab-count:1'>&nbsp; </span>the<span style=3D'mso-tab-count:1'>=
+ </span>brightness
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Increase<s=
+pan
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>the<span style=3D'mso-t=
+ab-count:
+1'> </span>volume <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Decrease<s=
+pan
+style=3D'mso-tab-count:1'>&nbsp; </span>the<span style=3D'mso-tab-count:1'>=
+ </span>volume
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Shut<span style=3D'mso-tab-count:1'=
+>&nbsp;&nbsp;&nbsp; </span>down<span
+style=3D'mso-tab-count:1'>&nbsp; </span>the<span style=3D'mso-tab-count:1'>=
+ </span>device
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Restart the
+device <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Reboot the device <o:p></o:p></span=
+></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Go to sleep <o:p></o:p></span></b><=
+/p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>What<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>time is<span style=3D'mso-tab=
+-count:
+1'> </span>it?<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>What<span style=3D'mso-tab-count:1'=
+>&nbsp;&nbsp; </span>is
+my IP address?<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Am I connected to the network?<o:p>=
+</o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Are you
+listening?<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:36.0pt;mso-char-indent-count:3.0'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>How much battery do I have left?<o:=
+p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US
+style=3D'font-size:12.0pt;font-family:"&#24494;&#36719;&#38597;&#40657;","s=
+ans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Call&lt;</=
+span></b><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#32852;&#31995;&#20154;<s=
+pan
+lang=3DEN-US>&gt;<span style=3D'mso-tab-count:1'>&nbsp; </span>-</span>&#38=
+656;&#35201;&#23433;&#35013;<span
+lang=3DEN-US>HoloSkype<span style=3D'mso-spacerun:yes'>&nbsp; </span><o:p><=
+/o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:42.0pt;mso-char-indent-count:3.5'=
+><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:12.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>Web search<o:p=
+></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.5pt;mso-char-indent-count:.5'><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:15.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#21548;&#20889;&#27169;&#=
+24335;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>Dict=
+ation<o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.5pt;mso-char-indent-count:.5'><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size=
+:15.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></span></b><span style=3D'font-siz=
+e:14.0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20840;&#2468=
+7;&#38190;&#30424;&#28608;&#27963;&#21518;&#65292;&#20320;&#21487;&#20197;&=
+#23558;&#36755;&#20837;&#27169;&#24335;&#20999;&#25442;&#21040;&#21548;&#20=
+889;&#27169;&#24335;&#12290;&#21487;&#20197;&#36890;&#36807;&#28857;&#20987=
+;&#25991;&#26412;&#36755;&#20837;&#26694;&#24038;&#36793;&#30340;&#40614;&#=
+20811;&#39118;&#25353;&#38062;&#26469;&#24320;&#22987;&#21548;&#20889;&#258=
+05;&#20316;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.5pt;mso-char-indent-count:.5'><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:15.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#38598;&#21512;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'> </span>Collections<o:p></o:p>=
+</span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:14.0pt;mso-char-indent-count:1.0'=
+><span
+lang=3DEN-US style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:14.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#24403;&#2510=
+5;&#20204;&#20351;&#29992;&#23646;&#24615;&#32034;&#24341;&#22120;&#25110;&=
+#32773;&#26041;&#27861;&#30340;&#36820;&#22238;&#20540;&#26159;&#38598;&#21=
+512;&#26102;&#65292;&#19981;&#24212;&#35813;&#31616;&#21333;&#22320;&#30452=
+;&#25509;&#36820;&#22238;&#19968;&#20010;<span
+lang=3DEN-US>null</span>&#23545;&#35937;&#65292;&#32780;&#26368;&#22909;&#3=
+6820;&#22238;&#19968;&#20010;&#25968;&#37327;&#20026;<span
+lang=3DEN-US>0</span>&#30340;&#38598;&#21512;&#23545;&#35937;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.0pt;mso-char-indent-count:.5'><=
+span
+lang=3DEN-US style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:14.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#22312;&#1996=
+8;&#20123;&#32597;&#35265;&#30340;&#24773;&#20917;&#19979;&#65292;<span
+lang=3DEN-US>API</span>&#20250;&#26292;&#38706;&#19968;&#20010;&#21487;&#35=
+835;<span
+lang=3DEN-US>/</span>&#20889;&#30340;&#38598;&#21512;&#31867;&#22411;&#2364=
+6;&#24615;&#65292;&#20801;&#35768;&#24212;&#29992;&#31243;&#24207;&#25552;&=
+#20379;&#33258;&#24049;&#30340;&#20540;&#12290;&#22312;&#36825;&#20123;&#24=
+773;&#20917;&#19979;&#65292;&#22914;&#26524;<span
+lang=3DEN-US>API</span>&#22312;&#23436;&#20840;&#21151;&#33021;&#30340;&#24=
+773;&#20917;&#19979;&#24050;&#32463;&#36820;&#22238;<span
+lang=3DEN-US>null</span>&#65292;&#23427;&#24212;&#35813;&#22312;&#37096;&#2=
+0998;&#21151;&#33021;&#30340;&#24773;&#20917;&#19979;&#32487;&#32493;&#3682=
+0;<span
+lang=3DEN-US>null</span>&#12290;<span lang=3DEN-US><span style=3D'mso-tab-c=
+ount:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span>&#27880;&#24847;&#65292;&#36=
+825;&#26159;&#19968;&#20010;<span
+lang=3DEN-US>API</span>&#35774;&#35745;&#30340;&#21453;&#27169;&#24335;&#65=
+292;&#22823;&#22810;&#25968;<span
+lang=3DEN-US>UWP<span style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span>API</sp=
+an>&#19968;&#33324;&#19981;&#24212;&#35813;&#36981;&#24490;&#23427;&#12290;=
+<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.5pt;mso-char-indent-count:.5'><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:15.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#24322;&#27493;&#26041;&#=
+27861;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>Asyn=
+chronous<span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>functions<o:p></o=
+:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.0pt;mso-char-indent-count:.5'><=
+span
+lang=3DEN-US style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:14.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#19981;&#2421=
+2;&#35813;&#20174;<span
+lang=3DEN-US>Async</span>&#24322;&#27493;&#26041;&#27861;&#36820;&#22238;&#=
+31354;<span
+lang=3DEN-US>IAsyncAction</span>&#25110;<span lang=3DEN-US>IAsyncOperation<=
+/span>&#32467;&#26524;&#12290;&#30456;&#21453;&#65292;&#23427;&#20204;&#235=
+58;&#36820;&#22238;&#24050;&#32463;&#22788;&#20110;&#20219;&#21153;&#23436;=
+&#25104;&#29366;&#24577;&#24182;&#20855;&#26377;&#36866;&#24403;&#32467;&#2=
+6524;&#65288;&#31354;&#38598;&#21512;&#65292;&#29366;&#24577;&#20195;&#3072=
+1;&#31561;&#65289;&#30340;&#26377;&#25928;&#23545;&#35937;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.5pt;mso-char-indent-count:.5'><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:15.0pt;font-=
+family:
+"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20107;&#20214;<span
+lang=3DEN-US><span style=3D'mso-tab-count:1'> </span>Events<o:p></o:p></spa=
+n></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:7.0pt;mso-char-indent-count:.5'><=
+span
+lang=3DEN-US style=3D'font-size:14.0pt;font-family:"&#24494;&#36719;&#38597=
+;&#40657;","sans-serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></span><span style=3D'font-size:14.=
+0pt;
+font-family:"&#24494;&#36719;&#38597;&#40657;","sans-serif"'>&#20107;&#2021=
+4;&#19981;&#24212;&#35813;&#22833;&#36133;&#25110;&#32773;&#24573;&#30053;&=
+#20107;&#20214;&#27880;&#20876;&#34892;&#20026;&#12290;&#30456;&#21453;&#65=
+292;<span
+lang=3DEN-US>API</span>&#24212;&#35813;&#25509;&#21463;&#20107;&#20214;&#27=
+880;&#20876;<span
+lang=3DEN-US>/</span>&#21462;&#28040;&#20107;&#20214;&#27880;&#20876;&#6529=
+2;&#20294;&#32477;&#19981;&#20250;&#24341;&#21457;&#20107;&#20214;&#12290;<=
+span
+lang=3DEN-US>API</span>&#24517;&#39035;&#25345;&#26377;&#20219;&#20309;&#24=
+050;&#27880;&#20876;&#30340;&#20107;&#20214;&#22788;&#29702;&#31243;&#24207=
+;&#65288;&#32780;&#19981;&#26159;&#40664;&#40664;&#22320;&#24573;&#30053;&#=
+23427;&#20204;&#65289;&#65292;
+&#22240;&#20026;&#24212;&#29992;&#31243;&#24207;&#21487;&#33021;&#26080;&#2=
+4847;&#20013;&#20381;&#36182;&#27880;&#20876;&#30340;&#20107;&#20214;&#3682=
+7;&#34892;&#29983;&#21629;&#21608;&#26399;&#31649;&#29702;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/item0009.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<b:Sources xmlns:b=3D"http://schemas.openxmlformats.org/officeDocument/2006=
+/bibliography" xmlns=3D"http://schemas.openxmlformats.org/officeDocument/20=
+06/bibliography" SelectedStyle=3D"\APA.XSL" StyleName=3D"APA"/>
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/props0010.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
+<ds:datastoreItem ds:itemID=3D"{4CE2CDEB-6884-4909-80EB-A703617DEC1A}" xmln=
+s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
+s:schemaRefs><ds:schemaRef ds:uri=3D"http://schemas.openxmlformats.org/offi=
+ceDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQCCirwT+gAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy2rDMBBF
+94X+g9C22HK6KKXYzqJJd30s0g8Y5LEtao+ENAnJ33fsuFC6CC10IxBizpl7Va6P46AOGJPzVOlV
+XmiFZH3jqKv0++4pu9cqMVADgyes9AmTXtfXV+XuFDApmaZU6Z45PBiTbI8jpNwHJHlpfRyB5Ro7
+E8B+QIfmtijujPXESJzxxNB1+SoLRNegeoPILzCKx7Cg8Pv5DCSAmAtYq8czYVqi0hDC4CywRDAH
+an7oM9+2zmLj7X4UaT6DF9jNBDO/XGD1P+ov5wZb2A+stkfp4lx/xCH9LdtSay6Tc/7Uu5AuGC6X
+t7Rh5r+tPwEAAP//AwBQSwMEFAAGAAgAAAAhAKXWp+fAAAAANgEAAAsAAABfcmVscy8ucmVsc4SP
+z2rDMAyH74W9g9F9UdLDGCV2L6WQQy+jfQDhKH9oIhvbG+vbT8cGCrsIhKTv96k9/q6L+eGU5yAW
+mqoGw+JDP8to4XY9v3+CyYWkpyUIW3hwhqN727VfvFDRozzNMRulSLYwlRIPiNlPvFKuQmTRyRDS
+SkXbNGIkf6eRcV/XH5ieGeA2TNP1FlLXN2Cuj6jJ/7PDMMyeT8F/ryzlRQRuN5RMaeRioagv41O9
+kKhlqtQe0LW4+db9AQAA//8DAFBLAwQUAAYACAAAACEAa3mWFoMAAACKAAAAHAAAAHRoZW1lL3Ro
+ZW1lL3RoZW1lTWFuYWdlci54bWwMzE0KwyAQQOF9oXeQ2TdjuyhFYrLLrrv2AEOcGkHHoNKf29fl
+44M3zt8U1ZtLDVksnAcNimXNLoi38Hwspxuo2kgcxSxs4ccV5ul4GMm0jRPfSchzUX0j1ZCFrbXd
+INa1K9Uh7yzdXrkkaj2LR1fo0/cp4kXrKyYKAjj9AQAA//8DAFBLAwQUAAYACAAAACEAhr4xdqYH
+AACnIAAAFgAAAHRoZW1lL3RoZW1lL3RoZW1lMS54bWzsWc2PG7cVvxfo/zCYu6yvGX0sLAf69Mbe
+tQ1LdpEjV6Jm6OUMBZLatRAYCJxTEaBAkKTIoQGKXnoo2gZogBoNiv4vdWrDTf+IPnJGI1Ki4t2t
+D0axax80nN97fHzv8ffekDc/eJpQ7wxzQVja8as3Kr6H0ymbkTTq+I8mo1LL94RE6QxRluKOv8LC
+/+DWz392Ex3IGCfYA/lUHKCOH0u5OCiXxRSGkbjBFjiFd3PGEyThkUflGUfnoDeh5Vql0igniKS+
+l6IE1N6fz8kUez+8+P7N777+5yefwX//1nqOIYWJUinUwJTysZoBW4IaOzutKoRYiT7l3hmiHR+m
+m7HzCX4qfY8iIeFFx6/oP79862YZHeRCVO6RNeRG+i+XywVmpzU9J49OikmDIAwa3UK/BlC5ixs2
+h41ho9CnAWg6hZVmttg6m7V+kGMNUPbToXvQHNSrFt7QX9+xuRuqfxZegzL9wQ5+NOqDFy28BmX4
+cAcf9tq9ga1fgzJ8YwffrHQHQdPSr0ExJenpDroSNur99WoLyJzRQye8HQajZi1XvkFBNhTZpaaY
+s1Tuy7UEPWF8BAAFpEiS1JOrBZ6jKSTz6z/+8vXf/uEdkSiWahZ0gJHx+s33n//w9y+yF1NhvMiG
+1LSemHKykB3/zgLBHtmofvXixcvn3718/teXn3768vmfzTksuUOURqbcj7///D/ffOL9+y+//fHL
+rxzzAF6Y+N0lbKuHHWWY9etvX3/37auvf/XmD186tHc5OjHhE5Jg4d3D595DlsACtY/sCfAJv5zE
+JEbElOimkUApUrM49A9lbKHvrRBFDlwP2358zIFRXMDbyyeWweOYLyVxaLwbJxbwmDHaY9zphbtq
+LsPNk2UauSfnSxP3EKEz19z9rSgPlwugUuJS2Y+xZeYDilKJIpxi6al37BRjx+o+IsTy6zGZcibY
+XHofEa+HiNMlE3JiZdNG6JAkEJeVy0CIt+Wb48dej1HXqgf4zEbC3kDUYfwEU8uNt9FSosSlcoIS
+ajr8CMnYZeR4xacmbigkRDrClHnDGRbCJXOfw3qNoN9FQGLOsB/TVWIjuSSnLp1HiDETOWCn/Rgl
+Cxd2TNLYxH4oTiFFkfeASRf8mNk7RD1DHFC6N9yPCbbC/XY2eARMapq0SRD1ZskdsbyNmZW/4xWd
+I+yimi5PLIrtcuLMjt4yslL7CGOKztEMY+/Rhw4Lemxh+Xxj9J0YWOUQuxLrDrJzVT2nWGBP9zC7
+PHlEhJWyYxyxPfYcr7aIZ4XSBPF9mu9B1E2fD084bEbHOu/T6akJvEeg44N8cTrlvgAdRnLv1fog
+RlYBU8/Cna8rbsXvInsM9uUTy4wL7EuQwZeWAWI3ZX7SNxNErQk2CTNBxDty0S2IWOHfiKjiqsWW
+Trm5vWk3YYAmyOptEpK+rdHJcsJqcf71p8/+lxYHGolXv/nGkWvvpq1xK7Y46dXlGpp9nHG41cbs
+w203L33GZ+T9710GaJk+wFAudonpunW5bl38//vWZd9+vm5Y9rUV1w2LD43EdcOSH5W8m4Zl06NA
++6LOEbJjG32Ik+w9w5kTSsdyRfGR0Mc4Aj5bZiMYVHL6GBMXZ3qLGH6qMgcTWLiIIy3jcSZ/QWQ8
+jtECjoCqvlISiVx1JLwFE3D0qIeduhWeLpNjNsuOLqtVdUyZVVaB5Ga8EhbjcOwkM3SjuTmOK9Rr
+ayN9bLo2QMlexghjMtuIusOI5npQOUkf0oLTHEbolb0TK9oOK1pK/TpUO1aAaUVU4Lvag6/xjh8G
+IAJCcOwGPfhMxSkL9Tq6OpjvMtL7nGllQAWOyfMM2ES6rWzduzy1uizVLhBpywgj3WwjtGd0gydi
++NrNs1ONXsSMy8a6vQmpZZ5yRe4Lw4xm66esuGqsQW6bG2hqMgVNvfOO36iHkDJTtOj4czgChp/J
+AnJHqE8rRCO4TplKnm34qzDLggs5QCLOHK5JJ2ODhEjMPUqSjq+WX4SBpppDtG3VGhDCe2tcG2jl
+fTMOgm4HGc/neCrNsBsjytPZIzB8xhXOt1r86mAlyZYQ7nE8O/dO6JI/RJBiYbOqHDgjAq4Iqpk3
+ZwSutgoi2+TfVmHKade8W9I5lI0juohRXlFMMs/gmsoLc/RT4QPjKV8zONRwSV4ITyJVYE2nWtW0
+qBqZDXur7tuFlOcM0tzUTItVVNV0s5g1w7oMbPnyakXesGrtYiiXZoXPqHubcttrrtvqE4oqAQ4v
+/OeouhcoCIZpm8ks05TFuzSsODsftWvHeoFvMe0iRcJg/cZa7ZbfihrhnA4Gr1T5QW47a2Fovu4r
+taf1Vbh5Tc1OngB5DKDLXVIpdCjhEpojaIjGuifJaAO2yFOZbw345S056fgfV8Ju0K+F/VKlFQ5L
+QT2olFpht17qhmG9OgyrlUGv9gwKi4yTaphdw4/gnoKu8st4Pb5zIZ+sr2JuTFlSZvrCvawN1xfy
+1Vp+Ia8v9Dv+1s38RN25+x4B9vm4URu16+1eo9Sud0elYNBrldr9Rq80aPSbg9GgH7bao2e+d6bB
+QbfeDxrDVqlR7fdLQaOi1tFql5pBrdYNmt3WMOg+y/sZcEHGI7lTwM/awFv/BQAA//8DAFBLAwQU
+AAYACAAAACEADdGQn7YAAAAbAQAAJwAAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54
+bWwucmVsc4SPTQrCMBSE94J3CG9v07oQkSbdiNCt1AOE5DUNNj8kUeztDa4sCC6HYb6ZabuXnckT
+YzLeMWiqGgg66ZVxmsFtuOyOQFIWTonZO2SwYIKObzftFWeRSyhNJiRSKC4xmHIOJ0qTnNCKVPmA
+rjijj1bkIqOmQci70Ej3dX2g8ZsBfMUkvWIQe9UAGZZQmv+z/TgaiWcvHxZd/lFBc9mFBSiixszg
+I5uqTATKW7q6xN8AAAD//wMAUEsBAi0AFAAGAAgAAAAhAIKKvBP6AAAAHAIAABMAAAAAAAAAAAAA
+AAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEApdan58AAAAA2AQAACwAA
+AAAAAAAAAAAAAAArAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAa3mWFoMAAACKAAAAHAAA
+AAAAAAAAAAAAAAAUAgAAdGhlbWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbFBLAQItABQABgAIAAAA
+IQCGvjF2pgcAAKcgAAAWAAAAAAAAAAAAAAAAANECAAB0aGVtZS90aGVtZS90aGVtZTEueG1sUEsB
+Ai0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAAqwoAAHRoZW1lL3RoZW1lL19y
+ZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0BAACmCwAAAAA=
+
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/image003.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAFYAVgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDzVRR2
+NOHFJ61QEqcJVGVcytV9elU5P9aaAGhelO2UDtUiipAQLTtgpRThTAaEHelCA06louAzyxS7BT6W
+i4EewUvlin0UXAj8sUbBUlFFwIFjG407YKcv3jTjRcCPyxR5Yp9FAEewUFBipKTvSAj8sUhjFS0U
+wIvLFIYxUtJSAi8sUGMVLSGgCLyxR5YqSigCIxjFJ5YqakoAi8sUmwVLSUAReWKPLFS4ooAi8sUh
+jFS0mKAI/LFHlipKSgCIxigxipaKAIfKoqaikBZxSYxTu9IetWBIo+Wqcn+uNXV+7VOQfvWpAKKc
+BxTVFSAUgFA4p2KQU6gAoop1ABRRRigAxRRzRQAUUUUANX7zU6mr9406gBMUYpaKAExSU6m96AAi
+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
+
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/header.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 12">
+<meta name=3DOriginator content=3D"Microsoft Word 12">
+<link id=3DMain-File rel=3DMain-File href=3D"../HololensAPI.htm">
+<![if IE]>
+<base href=3D"file:///C:\68638E49\HololensAPI.files\header.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"6146"/>
+</xml><![endif]-->
+</head>
+
+<body lang=3DZH-CN>
+
+<div style=3D'mso-element:footnote-separator' id=3Dfs>
+
+<p class=3DMsoNormal><span lang=3DEN-US><span style=3D'mso-special-characte=
+r:footnote-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></span></p>
+
+</div>
+
+<div style=3D'mso-element:footnote-continuation-separator' id=3Dfcs>
+
+<p class=3DMsoNormal><span lang=3DEN-US><span style=3D'mso-special-characte=
+r:footnote-continuation-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-separator' id=3Des>
+
+<p class=3DMsoNormal><span lang=3DEN-US><span style=3D'mso-special-characte=
+r:footnote-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-continuation-separator' id=3Decs>
+
+<p class=3DMsoNormal><span lang=3DEN-US><span style=3D'mso-special-characte=
+r:footnote-continuation-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/image001.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkz
+ODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2Nj
+Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAIaAhkDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkBS9q
+BSnpTATtTkpvanrTAH6GqpHJq03Sq+OTSAQClApQKUUgExSgUtLigBMUu2lxS0wG4pdtOxRQA3bR
+tp2KWgBm2l207FGKAG7aNtOxRQA3bRtp+KKAGbaNtPxSYoAbtpm35qlxTcfNQAm2l207FGKAGbaN
+tPxRQAzbRtp9JikA3bRtp2KKAGbaNtPxRTAj20bakxSYpAM20bafijFAEe2jbT8UYoAZtpNtSUYo
+Aj20bafijFADNtG2n0UAR7aNtSYpMUAM20bafRigBm2k20/FFADNtG2n4oxQAzbRtp+KKAI9tG2n
+0YoAZto20/FFADNtJtp+KMUAM20m2pMUYoAj20bakxSYpAT0HpRQaoBO1PWm05aAFb7tVj941Zbo
+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
+p/z6wf8AfsUfYbT/AJ9YP+/YoA//2Q==
+
+------=_NextPart_01D2E856.90374B20
+Content-Location: file:///C:/68638E49/HololensAPI.files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../HololensAPI.htm"/>
+ <o:File HRef=3D"item0009.xml"/>
+ <o:File HRef=3D"props0010.xml"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"image001.jpg"/>
+ <o:File HRef=3D"image003.jpg"/>
+ <o:File HRef=3D"header.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D2E856.90374B20--
