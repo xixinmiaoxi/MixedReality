@@ -1,0 +1,4 @@
+F:\unityProjects\MixedRealityIntroduction\APP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+F:\unityProjects\MixedRealityIntroduction\APP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+F:\unityProjects\MixedRealityIntroduction\APP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+F:\unityProjects\MixedRealityIntroduction\APP\MixedRealityIntroduction\MixedRealityIntroduction.csproj;x86
